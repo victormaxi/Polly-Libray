@@ -1,0 +1,12 @@
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\bin\Debug\net7.0\MediatoRPattern_Core.deps.json
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\bin\Debug\net7.0\MediatoRPattern_Core.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\bin\Debug\net7.0\MediatoRPattern_Core.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.csproj.AssemblyReference.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.AssemblyInfoInputs.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.AssemblyInfo.cs
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.csproj.CoreCompileInputs.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\refint\MediatoRPattern_Core.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\MediatoRPattern_Core.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Core\obj\Debug\net7.0\ref\MediatoRPattern_Core.dll

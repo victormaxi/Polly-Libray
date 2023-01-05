@@ -1,0 +1,17 @@
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.csproj.AssemblyReference.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.AssemblyInfoInputs.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.AssemblyInfo.cs
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Domain.deps.json
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Domain.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Domain.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Core.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Data.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Core.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\bin\Debug\net7.0\MediatoRPattern_Data.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.csproj.CopyComplete
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\refint\MediatoRPattern_Domain.dll
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\MediatoRPattern_Domain.pdb
+C:\Users\PC3\source\repos\MediatoRPattern\MediatoRPattern_Domain\obj\Debug\net7.0\ref\MediatoRPattern_Domain.dll
